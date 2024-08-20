@@ -1,10 +1,9 @@
 Visit <a href="https://allsafeafrica.netlify.app/">Allsafeafrica Co. UG</a>
 
-Privacy Policy :
 
 ### **Allsafeafrica Privacy Policy**
 
-**Effective Date: **
+**20/9/2020 **
 
 At Allsafeafrica, your privacy is our priority. This Privacy Policy outlines how we collect, use, store, and protect your personal data when you interact with our services, including our website, platforms, and other digital properties. We are committed to ensuring that your personal information is handled securely and transparently.
 
