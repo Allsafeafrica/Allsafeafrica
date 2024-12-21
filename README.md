@@ -1,5 +1,3 @@
-Sure! Here’s the updated `README.md` with an introduction to **Allsafeafrica** at the beginning, followed by the details of the **GreenGuard** project as part of its cybersecurity efforts.
-
 ```markdown
 # Allsafeafrica - Cybersecurity for a Safer Digital Africa
 
