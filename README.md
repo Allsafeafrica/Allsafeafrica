@@ -95,14 +95,3 @@ Allsafeafrica is licensed under the MIT License. See the [LICENSE](LICENSE) file
 
 Thank you for visiting Allsafeafrica! Together, we can make the digital world a safer place for everyone in Africa.
 ```
-
-### Explanation of Sections:
-
-1. **Description**: Gives an overview of what the project is about. In this case, it’s about improving digital safety for users in Africa.
-2. **Features**: Lists the main features of the project, such as tools for secure browsing, educational resources, and community engagement.
-3. **Installation**: Provides clear steps for users to set up the project on their local machines. This includes system requirements and commands to install dependencies.
-4. **Usage**: Explains how to run the project, such as launching servers and accessing the project in a browser.
-5. **Contributing**: Encourages others to contribute to the project, outlining steps to fork, modify, and submit changes.
-6. **License**: Provides information about the license that governs the use of the project’s code. The MIT License is a common open-source license.
-
-Let me know if you'd like to adjust any sections!
