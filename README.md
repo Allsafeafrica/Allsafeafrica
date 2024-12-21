@@ -15,12 +15,12 @@ GreenGuard not only offers powerful cybersecurity features but also educates use
 
 ## Table of Contents
 
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Description]
+- [Features]
+- [Installation]
+- [Usage]
+- [Contributing]
+- [License]
 
 ## Description
 
